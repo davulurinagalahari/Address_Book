@@ -26,12 +26,12 @@ It allows users to perform operations like adding, searching, updating, deleting
 * String Manipulation Functions
 
 
-
 🔐 Input Validation
-✔️ Validates phone number format
-✔️ Validates email format
-✔️ Handles invalid inputs gracefully
-✔️ Prevents incorrect data storage
+* ✔️ Validates phone number format
+* ✔️ Validates email format
+* ✔️ Handles invalid inputs gracefully
+* ✔️ Prevents incorrect data storage
+
 
 
 💡 Key Learnings
