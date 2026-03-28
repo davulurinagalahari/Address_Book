@@ -47,6 +47,6 @@ It allows users to perform operations like adding, searching, updating, deleting
 * Managing safe update and delete operations
 * Avoiding memory-related issues
 * Ensing data consistency in files
-* Designing a **user-friendly CLI interface
+* Designing a user-friendly CLI interface
 
 
